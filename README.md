@@ -1,4 +1,13 @@
 # Weldright-Techfest
+
+## File Description
+1. WeldRight PS contains the problem statement
+2. Data.csv contains the dataset.
+3. MODEL.ipynb contains the code to replicate the model.
+4. Feature Extraction & Business analytics.ipynb contains the code to obtain the business insights cited in the final report.
+5. Random_Forest.sav contains the pretrained model.
+6. WeldRight Report contains the final report in pdf format.
+
 ## INTRODUCTION
 In this project, we are building algorithms using the parameters to predict materials' welding defects by applying ML models. The main aim is to help the Godrej Aerospace Team produce defect-free, high-precision spacecraft components. In the following content of the abstract, we present the methodologies used on the provided dataset with 827534 rows and 88 columns to build a helpful algorithm.
 
